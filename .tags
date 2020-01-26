@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLOWED_HOSTS	locallibrary/settings.py	/^ALLOWED_HOSTS = []$/;"	v
+AUTH_PASSWORD_VALIDATORS	locallibrary/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	v
+BASE_DIR	locallibrary/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	v
+CatalogConfig	catalog/apps.py	/^class CatalogConfig(AppConfig):$/;"	c
+DATABASES	locallibrary/settings.py	/^DATABASES = {$/;"	v
+DEBUG	locallibrary/settings.py	/^DEBUG = True$/;"	v
+INSTALLED_APPS	locallibrary/settings.py	/^INSTALLED_APPS = [$/;"	v
+LANGUAGE_CODE	locallibrary/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	v
+MIDDLEWARE	locallibrary/settings.py	/^MIDDLEWARE = [$/;"	v
+ROOT_URLCONF	locallibrary/settings.py	/^ROOT_URLCONF = 'locallibrary.urls'$/;"	v
+SECRET_KEY	locallibrary/settings.py	/^SECRET_KEY = 'vhx5-1-48&bb9i9dd_b#z!knf1c-=j&dj#nx6p=x7$$-&2cog%'$/;"	v
+STATIC_URL	locallibrary/settings.py	/^STATIC_URL = '\/static\/'$/;"	v
+TEMPLATES	locallibrary/settings.py	/^TEMPLATES = [$/;"	v
+TIME_ZONE	locallibrary/settings.py	/^TIME_ZONE = 'UTC'$/;"	v
+USE_I18N	locallibrary/settings.py	/^USE_I18N = True$/;"	v
+USE_L10N	locallibrary/settings.py	/^USE_L10N = True$/;"	v
+USE_TZ	locallibrary/settings.py	/^USE_TZ = True$/;"	v
+WSGI_APPLICATION	locallibrary/settings.py	/^WSGI_APPLICATION = 'locallibrary.wsgi.application'$/;"	v
+application	locallibrary/asgi.py	/^application = get_asgi_application()$/;"	v
+application	locallibrary/wsgi.py	/^application = get_wsgi_application()$/;"	v
+main	manage.py	/^def main():$/;"	f
+name	catalog/apps.py	/^    name = 'catalog'$/;"	v	class:CatalogConfig
+urlpatterns	locallibrary/urls.py	/^urlpatterns = [$/;"	v
